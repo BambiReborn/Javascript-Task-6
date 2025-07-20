@@ -17,7 +17,7 @@ console.log(myProfile);
 console.log(myProfile.hobbies.hobby2)
 
 //function
-console.log("Hi, my name is", myProfile.Name)
+console.log(`Hi, my name is, ${myProfile.Name}`)
 
 
 //call back function
